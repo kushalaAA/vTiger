@@ -8,5 +8,12 @@ public class Demo {
 	public void demo() {
 		System.out.println("Demo");
 	}
+	
+	public void demo1() {
+		System.out.println("Demo");
+	}
+	
+	
+	
 
 }
